@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24485B</color>
+    <color name="colorPrimaryDark">#2A5369</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="vitoria">#17d129</color>
+    <color name="derrota">#ff4043</color>
+    <color name="empate">#000000</color>
+
+    <color name="color_text">#000000</color>
+    <color name="color_text_v">#00BF00</color>
+    <color name="color_text_d">#E60000</color>
+    <color name="color_text_e">#B3B3B3</color>
+</resources>
