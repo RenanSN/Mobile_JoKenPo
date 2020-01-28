@@ -1,5 +1,5 @@
 # Mobile_JoKenPo
-mobile project for Android developed in Kotlin
+projeto mobile para Android desenvolvido em Kotlin
 
 Ferramentas:<br>
 **Android Studio (Version 3.5.3):** https://developer.android.com/studio<br>
