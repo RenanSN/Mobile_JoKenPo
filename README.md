@@ -8,7 +8,7 @@ Trabalho escolar para mensão parcial do segundo Trimestre de 2019, da diciplina
 **Objetivo:**
 Desenvolver uma aplicação mobile do jogo jokenpo (inserindo os textos pelo na aplicação pelo arquivo **Strings.xml**).
 
-###Ferramentas:<br>
+### Ferramentas:<br>
 **Android Studio (Version 3.5.3):** https://developer.android.com/studio<br>
 
 ### Emulador
