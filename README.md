@@ -6,7 +6,7 @@ Projeto mobile para Android desenvolvido em Kotlin
 Trabalho escolar para mensão parcial do segundo Trimestre de 2019, da diciplina de **PAM 1** (**P**rogramação de **A**plicativos **M**obile **1**) do **_Curso Técnico de Desenvolvimento de Sistemas da Etec de Embu_**, orientado pela professora **Aline Francisca dos Santos**.
 
 **Objetivo:**<br>
-Desenvolver uma aplicação mobile do jogo jokenpo (inserindo os textos pelo na aplicação pelo arquivo **Strings.xml**).
+Desenvolver uma aplicação mobile do jogo jokenpo (inserindo os textos na aplicação pelo arquivo **Strings.xml**).
 
 ### Ferramentas:<br>
 **Android Studio (Version 3.5.3):** https://developer.android.com/studio<br>
