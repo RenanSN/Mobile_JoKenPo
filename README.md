@@ -1,4 +1,5 @@
 ![https://github.com/RenanSN/Mobile_JoKenPo](https://img.shields.io/badge/ANDROID-KOTLIN-orange)
+![https://github.com/RenanSN](https://img.shields.io/github/followers/RenanSN?style=social)
 
 # Mobile_JoKenPo
 ```markdown
