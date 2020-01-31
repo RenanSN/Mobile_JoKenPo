@@ -1,7 +1,11 @@
 ![](https://img.shields.io/badge/MOBILE-ANDROID-green)
 ![](https://img.shields.io/badge/LANGUAGE-KOTLIN-orange)
-![https://github.com/RenanSN](https://img.shields.io/github/followers/RenanSN?style=social)
-![https://github.com/RenanSN/Mobile_JoKenPo](https://img.shields.io/github/stars/RenanSN/Mobile_JoKenPo?style=social)
+<a href="https://github.com/RenanSN">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/RenanSN?style=social">
+ </a>
+ <a href="https://github.com/RenanSN/Mobile_JoKenPo/">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/RenanSN/Mobile_JoKenPo?style=social">
+ </a>
 
 # Mobile_JoKenPo
 ```markdown
