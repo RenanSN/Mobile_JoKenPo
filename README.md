@@ -7,7 +7,7 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/RenanSN/Mobile_JoKenPo?style=social">
  </a>
 
-# Mobile_JoKenPo
+# Mobile_JoKenPo <img src="https://img.icons8.com/dusk/40/000000/android.png">
 ```markdown
 Projeto mobile para Android desenvolvido em Kotlin
 ```
