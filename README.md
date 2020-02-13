@@ -37,3 +37,5 @@ Desenvolver uma aplicação mobile do jogo jokenpo (inserindo os textos na aplic
 |![IMG](/markdown/capa3_jokenpo.PNG)          |`Tela do aplicativo apos efetuar algumas jogadas, mostrando a ultima jogada efetuada pelo usuario e pela maquina, e a contagem de Vitorias, Derrotas e Empates.`|
 
 > **Obs:** O aplicativo tem som (ao fazer uma jogada).
+
+**Download:** <a href="JoKenPo(com.example.project_jokenpo)-1.0(1)-base.apk">APK</a>
