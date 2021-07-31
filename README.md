@@ -30,7 +30,7 @@ Desenvolver uma aplicação mobile do jogo jokenpo (inserindo os textos na aplic
 
 <br>
 
-|Telas           |Descrisão                      |                         
+|Telas           |Descrição                      |                         
 |----------------|-------------------------------|
 |![IMG](/markdown/capa1_jokenpo.PNG)|`Tela do Emulador com o aplicativo de Jokenpo.`            |
 |![IMG](/markdown/capa2_jokenpo.PNG)          |`Tela que aparece ao iniciar o aplicativo, onde o usuario pode efetuar a primeira jogada, selecionando uma das opções.`            |
